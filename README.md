@@ -40,4 +40,4 @@ If some words are replaced with rhyming words in step 2, we can use `RiTa.untoke
 
 By using these three steps, we can select words from the user's input poem, replace them with rhyming words, and then reassemble a complete poem.
 
-5: We use this step `let rhymes = RiTa.rhymesSync(words[r]);` to find rhyming words that match the chosen rhyme scheme (such as AABB or ABAB) when the user selects a rhyme rule.
+4: We use this step `let rhymes = RiTa.rhymesSync(words[r]);` to find rhyming words that match the chosen rhyme scheme (such as AABB or ABAB) when the user selects a rhyme rule.
